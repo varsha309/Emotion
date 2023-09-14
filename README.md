@@ -10,8 +10,8 @@ This project aims to classify the emotion on a person's face into one of **seven
 * To install the required packages, run `pip install -r requirements.txt`.
 
 ## Basic Usage
-
-* I have already trained my model , so for running this project just run the following commands:  
+***Note*** .csv file is missing as it is too large to upload.
+* I have already trained my model, so for running this project, just run the following commands:  
 
 
 ```bash
